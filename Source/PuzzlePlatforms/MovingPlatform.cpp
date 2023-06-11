@@ -2,7 +2,7 @@
 
 #include "MovingPlatform.h"
 
-
+//
 AMovingPlatform::AMovingPlatform()
 {
 	PrimaryActorTick.bCanEverTick = true;
